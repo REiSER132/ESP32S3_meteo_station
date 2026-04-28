@@ -8,9 +8,9 @@ import bmp280
 import ssd1306
 
 # --- НАСТРОЙКИ СЕТИ И MQTT ---
-SSID = "home"
-PASS = "jiger1324"
-MQTT_BROKER = "192.168.1.148" 
+SSID = ""
+PASS = ""
+MQTT_BROKER = "IP" 
 CLIENT_ID = "Sara_Neural_Key"
 TOPIC = "sara/sensors"
 
